@@ -1,0 +1,11 @@
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\BusinessLayer\bin\Debug\BusinessEntities.dll
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\BusinessLayer\bin\Debug\itextsharp.dll
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\BusinessLayer\bin\Debug\BusinessEntities.pdb
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\BusinessLayer\bin\Debug\itextsharp.xml
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb

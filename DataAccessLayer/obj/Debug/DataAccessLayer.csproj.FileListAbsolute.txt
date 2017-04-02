@@ -1,0 +1,9 @@
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\DataAccessLayer\bin\Debug\BusinessEntities.dll
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\DataAccessLayer\bin\Debug\itextsharp.dll
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\DataAccessLayer\bin\Debug\BusinessEntities.pdb
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\DataAccessLayer\bin\Debug\itextsharp.xml
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\HotelManagementSystem\ChelseaHotel_ManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
